@@ -28,6 +28,7 @@ php artisan serve
 - Create & publish post
 - Login into the system.
 - Comment post
+- API to provide business logic to third party agencies(WIP)
 
 ## Credits
 
