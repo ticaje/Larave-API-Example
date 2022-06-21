@@ -20,6 +20,7 @@ composer install
 ```bash
 php artisan serve
 ```
+#### Rename .env.sample file to .env and configure it properly
 
 ## Features
 
